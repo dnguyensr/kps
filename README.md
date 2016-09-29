@@ -21,4 +21,4 @@ Sundry is a static travel experience site focused around cities using the collec
 
 
 ## Built with
-  * MEAN stack (Angular 2)
+  * MERN stack
